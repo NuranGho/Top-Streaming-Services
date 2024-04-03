@@ -1,1 +1,3 @@
 # Top-Streaming-Services
+
+The outcome of this project was to give insight to consumers for which streaming service they should consider and which one best fits their needs based on different factors such as: countries, genres, ratings and more. We collected data from the top 4 streaming services, DisneyPlus, Hulu, Netflix, and Amazon Prime and used Python to clean and normalize the data which we aggregated into one dataset called Movie_Dataset_Updated.xlsx. We visualed our results in Tableau which was published here: https://public.tableau.com/app/profile/matthew.luong/viz/GROUPPROJECT_16954408631580/MainStory?publish=yes
